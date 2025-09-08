@@ -1,0 +1,1 @@
+This is a new data written to a file using TypeScript and async/await.
