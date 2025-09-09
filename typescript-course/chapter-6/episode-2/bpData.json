@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2025-09-09T09:01:33.288Z",
+    "systolic": 145,
+    "diastolic": 92,
+    "note": "After lunch."
+  },
+  {
+    "date": "2025-09-09T10:03:47.463Z",
+    "systolic": 130,
+    "diastolic": 92,
+    "note": "After dinner."
+  },
+  {
+    "date": "2025-09-09T10:13:50.982Z",
+    "systolic": 143,
+    "diastolic": 92,
+    "note": "After breakfast."
+  }
+]
